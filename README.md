@@ -1,4 +1,2 @@
-ddlutils
-========
-
-http://db.apache.org/ddlutils
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
